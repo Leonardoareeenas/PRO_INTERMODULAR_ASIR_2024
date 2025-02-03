@@ -37,3 +37,8 @@
 * Javier Montoro Granados
 * David Mozos Pardo
 * Oscar Gárcia Verdugo García
+
+**9. Equipo 9:**
+* Leonardo David Arenas López
+* Jonathan Andrés Benitez Narvaez
+* Jonathan Javier Cumvajín Vaca
