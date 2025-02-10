@@ -18,4 +18,4 @@ https://drive.google.com/file/d/1pCaoUPOR76YQIGApXNooIVIzQwcJipo7/view?usp=drive
 
 
 **9. Equipo 9:**
-* [Web con ia en redes]([https://drive.google.com/file/d/1pCaoUPOR76YQIGApXNooIVIzQwcJipo7/view?usp=drive_link](https://docs.google.com/document/d/1lp-Nq2bAp2UuyrJpnjhDx3r4UZ78M84WgzM9HvURgOo/edit?usp=drive_link))
+* [Web con ia en redes](https://docs.google.com/document/d/1lp-Nq2bAp2UuyrJpnjhDx3r4UZ78M84WgzM9HvURgOo/edit?usp=drive_link)
