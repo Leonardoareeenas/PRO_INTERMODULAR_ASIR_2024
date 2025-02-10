@@ -15,3 +15,7 @@ https://drive.google.com/file/d/1pCaoUPOR76YQIGApXNooIVIzQwcJipo7/view?usp=drive
 
 **6. Equipo 6:**
 * [Aplicación Web para almacenar TFG's](https://drive.google.com/file/d/1pCaoUPOR76YQIGApXNooIVIzQwcJipo7/view?usp=drive_link)
+
+
+**9. Equipo 9:**
+* [Web con ia en redes]([https://drive.google.com/file/d/1pCaoUPOR76YQIGApXNooIVIzQwcJipo7/view?usp=drive_link](https://docs.google.com/document/d/1lp-Nq2bAp2UuyrJpnjhDx3r4UZ78M84WgzM9HvURgOo/edit?usp=drive_link))
